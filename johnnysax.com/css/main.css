@@ -26,7 +26,8 @@ section{
     border-radius:5px;
     overflow:auto;
     transition: .4s;
-    width: 90%;
+    width:90%;
+
     
 }
 #navbar {
@@ -81,18 +82,10 @@ opacity:1;
   background-color: #444;
   color: black;
 }
-.if{
-    width: 90vw;
-    height: 200px;
-    padding: 10px;
-    background-color: #333;
-    border-radius: 3px;
-}
+
 .container {
-  position: relative;
   text-align: center;
   color: white;
-  z-index:;
 }
 .centered {
   position: absolute;
@@ -188,4 +181,8 @@ article{
 }
 article h1{
     font-size: 30px;
+}
+iframe{
+  width: 70%;
+  height: 450px;
 }
